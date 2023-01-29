@@ -156,3 +156,5 @@ You may also need to change the flashloan provider used in the contract to one t
 ### Additional Notes
 
 - If testing out the *manipulate.js* script, you'll also want to update the **UNLOCKED_ACCOUNT** variable and adjust **AMOUNT** as needed.
+
+You are solely responsible for all risks, financial resources, and trading system selection; this is not financial advice. You should not do this unless you are completely aware of the nature of the transactions and the extent of your loss exposure.
